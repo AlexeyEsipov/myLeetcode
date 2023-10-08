@@ -10,6 +10,7 @@ public class ValidParentheses {
         for (char ch : arr) {
 
 
+
             if (ch == '(' || ch == '{' ||ch == '[') {
                 stack.push(ch);
             } else if (!stack.isEmpty()
