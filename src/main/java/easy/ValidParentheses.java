@@ -8,6 +8,7 @@ public class ValidParentheses {
         Deque<Character> stack = new LinkedList<>();
         char[] arr = s.toCharArray();
         for (char ch : arr) {
+
             if (ch == '(' || ch == '{' ||ch == '[') {
                 stack.push(ch);
             } else if (!stack.isEmpty()
