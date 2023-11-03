@@ -14,6 +14,7 @@ public class BestTimeToBuyAndSellStock {
                 result = price - min;
             }
         }
+
         return result;
     }
 }
