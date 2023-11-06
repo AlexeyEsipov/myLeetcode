@@ -1,5 +1,6 @@
 # my_leetcode
 Проект "My LeetCode"
+
 ![github actions](https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/maven.yml/badge.svg)
 
 [//]: # ([![Coverage]&#40;.github/badges/jacoco.svg&#41;]&#40;https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/build.yml&#41;)
