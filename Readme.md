@@ -1,7 +1,9 @@
 # my_leetcode
 Проект "My LeetCode"
 
-![github actions](https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/maven.yml/badge.svg) ![coverage](https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/jacoco.yml/badge.svg) [![codecov](https://codecov.io/gh/AlexeyEsipov/myLeetcode/graph/badge.svg?token=15MNKZ3BQ3)](https://codecov.io/gh/AlexeyEsipov/myLeetcode)
+![github actions](https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/maven.yml/badge.svg)
+![coverage](https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/jacoco.yml/badge.svg)
+[![codecov](https://codecov.io/gh/AlexeyEsipov/myLeetcode/graph/badge.svg?token=15MNKZ3BQ3)](https://codecov.io/gh/AlexeyEsipov/myLeetcode)
 
 
 
