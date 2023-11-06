@@ -4,7 +4,9 @@
 
 [//]: # ([![Coverage]&#40;.github/badges/jacoco.svg&#41;]&#40;https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/build.yml&#41;)
 
-![coverage](https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/jacoco.yml/badge.svg) 
+[//]: # (![coverage]&#40;https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/jacoco.yml/badge.svg&#41; )
+
+![coverage](https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/maven.yml/jacoco.svg) 
 
 [![codecov](https://codecov.io/gh/AlexeyEsipov/myLeetcode/graph/badge.svg?token=15MNKZ3BQ3)](https://codecov.io/gh/AlexeyEsipov/myLeetcode)
 
