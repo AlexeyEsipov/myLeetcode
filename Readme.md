@@ -11,6 +11,7 @@
 [//]: # (![coverage]&#40;https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/maven.yml/jacoco.svg&#41; )
 
 [//]: # ([![Coverage]&#40;.github/badges/jacoco.svg&#41;]&#40;https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/build.yml&#41;)
+
 [//]: # (![branches]&#40;https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/jacoco.yml/badge.svg&#41; )
 
 [//]: # (![coverage]&#40;.github/badges/jacoco.svg&#41;)
